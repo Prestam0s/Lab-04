@@ -1,0 +1,14 @@
+/home/whimsy/Documents/Lab 04/The_Group_Trip/bin/Debug/net10.0/The_Group_Trip
+/home/whimsy/Documents/Lab 04/The_Group_Trip/bin/Debug/net10.0/The_Group_Trip.deps.json
+/home/whimsy/Documents/Lab 04/The_Group_Trip/bin/Debug/net10.0/The_Group_Trip.runtimeconfig.json
+/home/whimsy/Documents/Lab 04/The_Group_Trip/bin/Debug/net10.0/The_Group_Trip.dll
+/home/whimsy/Documents/Lab 04/The_Group_Trip/bin/Debug/net10.0/The_Group_Trip.pdb
+/home/whimsy/Documents/Lab 04/The_Group_Trip/obj/Debug/net10.0/The_Group_Trip.GeneratedMSBuildEditorConfig.editorconfig
+/home/whimsy/Documents/Lab 04/The_Group_Trip/obj/Debug/net10.0/The_Group_Trip.AssemblyInfoInputs.cache
+/home/whimsy/Documents/Lab 04/The_Group_Trip/obj/Debug/net10.0/The_Group_Trip.AssemblyInfo.cs
+/home/whimsy/Documents/Lab 04/The_Group_Trip/obj/Debug/net10.0/The_Group_Trip.csproj.CoreCompileInputs.cache
+/home/whimsy/Documents/Lab 04/The_Group_Trip/obj/Debug/net10.0/The_Group_Trip.dll
+/home/whimsy/Documents/Lab 04/The_Group_Trip/obj/Debug/net10.0/refint/The_Group_Trip.dll
+/home/whimsy/Documents/Lab 04/The_Group_Trip/obj/Debug/net10.0/The_Group_Trip.pdb
+/home/whimsy/Documents/Lab 04/The_Group_Trip/obj/Debug/net10.0/The_Group_Trip.genruntimeconfig.cache
+/home/whimsy/Documents/Lab 04/The_Group_Trip/obj/Debug/net10.0/ref/The_Group_Trip.dll
